@@ -1,0 +1,1 @@
+{"success": true, "data": [{"id": 975, "user": {"name": "Amara", "id": 31}, "date": "2023-01-15T00:48:44.985161+00:00", "challenge": {"name": "A Long Time Ago...", "id": 290362361, "value": 70, "category": "osint"}, "challenge_id": 290362361, "type": "correct", "team": null}], "meta": {"count": 1}}
